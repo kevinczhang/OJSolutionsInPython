@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\Program Files\\Python36\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.unitTest.pyTestArgs": [
+        "tests"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true,
+    "cSpell.words": [
+        "curr",
+        "nums"
+    ]
+}
